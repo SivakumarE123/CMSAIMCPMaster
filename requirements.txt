@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+presidio-analyzer
+presidio-anonymizer
+spacy
+streamlit
+requests
+python-docx
+fastmcp
+Pillow
+mistralai
+python-multipart
+openpyxl
