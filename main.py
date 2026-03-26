@@ -15,6 +15,7 @@ from denylist import apply_multiple_deny_lists
 from mistral import process_mistral_ocr
 import json
 from dotenv import load_dotenv
+import os
 
 # Load environment variables from .env file
 load_dotenv()
